@@ -27,5 +27,5 @@
 Admin
 - As an Admin I can flag and retire any game or member.
 
-![IMG](https://github.com/balsaBojanic/CRUD-PPDR-unit-4-project/blob/main/Screenshot%202025-12-04%20at%2013.52.44.png?raw=true)
-![IMG](https://github.com/balsaBojanic/CRUD-PPDR-unit-4-project/blob/main/Screenshot%202025-12-04%20at%2014.06.10.png?raw=true)
+![IMG](https://github.com/balsaBojanic/CRUD-PPDR-unit-4-project/blob/main/README/Screenshot%202025-12-04%20at%2013.52.44.png?raw=true)
+![IMG](https://github.com/balsaBojanic/CRUD-PPDR-unit-4-project/blob/main/README/Screenshot%202025-12-04%20at%2014.06.10.png?raw=true)
